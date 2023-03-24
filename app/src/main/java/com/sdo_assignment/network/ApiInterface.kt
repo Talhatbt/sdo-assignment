@@ -9,7 +9,7 @@ import retrofit2.http.GET
  */
 interface ApiInterface {
     /**
-     * Get the list of the Article from the API
+     * Get the list of the users from the API
      */
     @GET("/users")
     fun getUserDetails(): Observable<List<UserDetailResponse>>
