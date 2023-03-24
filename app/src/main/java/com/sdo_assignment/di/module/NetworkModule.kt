@@ -1,4 +1,4 @@
-package com.sdo_assignment.daggar.module
+package com.sdo_assignment.di.module
 
 import com.sdo_assignment.BuildConfig
 import com.sdo_assignment.network.ApiInterface

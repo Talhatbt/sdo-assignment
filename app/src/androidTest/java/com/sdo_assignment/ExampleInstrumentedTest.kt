@@ -1,9 +1,7 @@
 package com.sdo_assignment
 
-import androidx.lifecycle.ViewModelProviders
 import androidx.test.ext.junit.runners.AndroidJUnit4
 import androidx.test.platform.app.InstrumentationRegistry
-import com.sdo_assignment.daggar.ViewModelFactory
 import com.sdo_assignment.ui.UserListViewModel
 import kotlinx.coroutines.runBlocking
 import org.junit.Assert.*

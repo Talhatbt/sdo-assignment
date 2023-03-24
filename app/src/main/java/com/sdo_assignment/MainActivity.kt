@@ -9,7 +9,7 @@ import androidx.core.view.WindowCompat
 import androidx.lifecycle.ViewModelProviders
 import com.google.android.material.snackbar.Snackbar
 import com.sdo_assignment.adapters.LastAdapter
-import com.sdo_assignment.daggar.ViewModelFactory
+import com.sdo_assignment.di.ViewModelFactory
 import com.sdo_assignment.databinding.ActivityMainBinding
 import com.sdo_assignment.model.UserDetailResponse
 import com.sdo_assignment.ui.UserListViewModel

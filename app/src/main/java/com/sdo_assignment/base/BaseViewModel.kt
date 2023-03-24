@@ -1,9 +1,9 @@
 package com.sdo_assignment.base
 
 import androidx.lifecycle.ViewModel
-import com.sdo_assignment.daggar.component.DaggerViewModelInjector
-import com.sdo_assignment.daggar.component.ViewModelInjector
-import com.sdo_assignment.daggar.module.NetworkModule
+import com.sdo_assignment.di.component.DaggerViewModelInjector
+import com.sdo_assignment.di.component.ViewModelInjector
+import com.sdo_assignment.di.module.NetworkModule
 import com.sdo_assignment.ui.UserListViewModel
 
 abstract class BaseViewModel : ViewModel() {

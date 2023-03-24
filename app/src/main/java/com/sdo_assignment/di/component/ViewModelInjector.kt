@@ -1,6 +1,6 @@
-package com.sdo_assignment.daggar.component
+package com.sdo_assignment.di.component
 
-import com.sdo_assignment.daggar.module.NetworkModule
+import com.sdo_assignment.di.module.NetworkModule
 import com.sdo_assignment.ui.UserListViewModel
 import dagger.Component
 import javax.inject.Singleton

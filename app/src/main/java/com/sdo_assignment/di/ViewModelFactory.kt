@@ -1,4 +1,4 @@
-package com.sdo_assignment.daggar
+package com.sdo_assignment.di
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
